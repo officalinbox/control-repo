@@ -15,3 +15,7 @@ forge 'https://forge.puppet.com'
 #mod 'apache',
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
 #  branch: 'docs_experiment'
+
+mod 'mytaskrepo',
+  :git => 'git@github.com:officalinbox/mytaskrepo.git',
+  :ref => 'main'
