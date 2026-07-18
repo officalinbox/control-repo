@@ -17,5 +17,5 @@ forge 'https://forge.puppet.com'
 #  branch: 'docs_experiment'
 
 mod 'mytaskrepo',
-  :git => 'git@github.com:officalinbox/mytaskrepo.git',
+  :git => 'git@github.com:officalinbox/senthil_module.git',
   :ref => 'main'
