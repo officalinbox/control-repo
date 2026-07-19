@@ -16,6 +16,10 @@ forge 'https://forge.puppet.com'
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
 #  branch: 'docs_experiment'
 
-mod 'mytaskrepo',
+mod 'senthil_module',
   :git => 'git@github.com:officalinbox/senthil_module.git',
+  :ref => 'main'
+
+mod 'mytaskrepo',
+  :git => 'git@github.com:officalinbox/mytaskrepo.git',
   :ref => 'main'
