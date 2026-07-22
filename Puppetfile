@@ -16,7 +16,7 @@ forge 'https://forge.puppet.com'
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
 #  branch: 'docs_experiment'
 
-mod 'senthil_module',
+mod 'senthil',
   :git => 'git@github.com:officalinbox/senthil_module.git',
   :ref => 'main'
 
